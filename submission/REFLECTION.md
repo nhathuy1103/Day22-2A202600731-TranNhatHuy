@@ -1,7 +1,7 @@
 # Reflection — Lab 22 (DPO/ORPO Alignment)
 
 **Tên:** Trần Nhất Huy
-**Cohort:** A20
+**Cohort:** 2A2026.20k
 **Tier đã chạy:** T4
 **Date:** 26-6-2026
 
